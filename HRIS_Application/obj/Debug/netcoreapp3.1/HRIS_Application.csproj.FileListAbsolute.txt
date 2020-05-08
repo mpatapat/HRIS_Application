@@ -193,6 +193,7 @@ C:\Users\mmpatapat\source\repos\HRIS_Application\HRIS_Application\bin\Debug\netc
 C:\Users\mmpatapat\source\repos\HRIS_Application\HRIS_Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\mmpatapat\source\repos\HRIS_Application\HRIS_Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\mmpatapat\source\repos\HRIS_Application\HRIS_Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mmpatapat\source\repos\HRIS_Application\HRIS_Application\bin\Debug\netcoreapp3.1\nunit.framework.dll
 C:\Users\mmpatapat\source\repos\HRIS_Application\HRIS_Application\obj\Debug\netcoreapp3.1\HRIS_Application.csproj.CoreCompileInputs.cache
 C:\Users\mmpatapat\source\repos\HRIS_Application\HRIS_Application\obj\Debug\netcoreapp3.1\HRIS_Application.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\mmpatapat\source\repos\HRIS_Application\HRIS_Application\obj\Debug\netcoreapp3.1\HRIS_Application.MvcApplicationPartsAssemblyInfo.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mmpatapat\\source\\repos\\HRIS_Application\\HRIS_Application\\HRIS_Application.csproj": {}
+    "C:\\Users\\mmpatapat\\source\\repos\\HRIS_Application\\HRIS_Application.UnitTests\\HRIS_Application.UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mmpatapat\\source\\repos\\HRIS_Application\\HRIS_Application\\HRIS_Application.csproj": {
+    "C:\\Users\\mmpatapat\\source\\repos\\HRIS_Application\\HRIS_Application.UnitTests\\HRIS_Application.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mmpatapat\\source\\repos\\HRIS_Application\\HRIS_Application\\HRIS_Application.csproj",
-        "projectName": "HRIS_Application",
-        "projectPath": "C:\\Users\\mmpatapat\\source\\repos\\HRIS_Application\\HRIS_Application\\HRIS_Application.csproj",
+        "projectUniqueName": "C:\\Users\\mmpatapat\\source\\repos\\HRIS_Application\\HRIS_Application.UnitTests\\HRIS_Application.UnitTests.csproj",
+        "projectName": "HRIS_Application.UnitTests",
+        "projectPath": "C:\\Users\\mmpatapat\\source\\repos\\HRIS_Application\\HRIS_Application.UnitTests\\HRIS_Application.UnitTests.csproj",
         "packagesPath": "C:\\Users\\mmpatapat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mmpatapat\\source\\repos\\HRIS_Application\\HRIS_Application\\obj\\",
+        "outputPath": "C:\\Users\\mmpatapat\\source\\repos\\HRIS_Application\\HRIS_Application.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -42,39 +42,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
-            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+            "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[3.1.2, )"
+              "version": "[16.4.0, )"
             },
-            "Microsoft.AspNetCore.Identity.UI": {
+            "NUnit3TestAdapter": {
               "target": "Package",
-              "version": "[3.1.2, )"
+              "version": "[3.15.1, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[3.1.2, )"
-            },
-            "Microsoft.EntityFrameworkCore.Sqlite": {
-              "target": "Package",
-              "version": "[3.1.2, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[3.1.2, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[3.1.2, )"
-            },
-            "NUnit": {
+            "nunit": {
               "target": "Package",
               "version": "[3.12.0, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[5.4.1, )"
             }
           },
           "imports": [
@@ -88,9 +66,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
